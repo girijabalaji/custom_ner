@@ -25,7 +25,7 @@ Named Entity Recognition is a fundamental task in Natural Language Processing (N
 
    ```bash
    git clone https://github.com/girijabalaji/custom_ner_model.git
-   cd custom-ner-model
+   cd custom_ner_model
    ```
 
 2. Set up a virtual environment (optional but recommended):
