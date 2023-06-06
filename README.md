@@ -1,1 +1,1 @@
-# custom_ner
+# text-Parsing-with-Spacy-in-Python
